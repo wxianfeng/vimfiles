@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/usr/local/system/projects/entos'
+let g:netrw_dirhist_2='/home/wxianfeng/.rvm/gems/ruby-1.9.2-p0/gems/capybara-0.4.1.1'
+let g:netrw_dirhist_3='/home/wxianfeng/.rvm/gems/ruby-1.9.2-p0/bundler/gems/capybara-0ad2f9f066db'
+let g:netrw_dirhist_4='/home/wxianfeng/.rvm/gems/ruby-1.9.2-p0/gems/activesupport-3.0.3'
+let g:netrw_dirhist_5='/usr/local/system/projects/beebuyer/trade_pay'
+let g:netrw_dirhist_6='/home/wxianfeng/.rvm/gems/ruby-1.9.2-p0/gems/tabletastic-0.2.2'
