@@ -1,10 +1,13 @@
-Installation (based on http://github.com/goomerko/vim-rails.config/tree/master)
+h1. Installation 
+(based on "here":http://github.com/goomerko/vim-rails.config/tree/master)
 ============
 Dependencies: 
-	vim with ruby support 
-	ACK (or comment line 147 in vimrc file - not tested).
+<pre>
+  vim with ruby support 
+  ACK (or comment line 147 in vimrc file - not tested).
   cURL (not sure)
   Exuberant ctags
+</pre>
 
   Required gems:
     - jamis-fuzzy_file_finder (gem sources -a http://gems.github.com if needed)
