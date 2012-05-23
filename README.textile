@@ -10,7 +10,8 @@ h1. Installation
 That's all,Enjoy! 
 
 h1. Usage(or tips)
+
 ==============
 <pre>
-F8							Toggle NERD_tree. I load it always
+F8		Toggle NERD_tree. I load it always
 </pre>
