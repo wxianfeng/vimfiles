@@ -15,6 +15,6 @@ h1. Usage(or tips)
 F8		Toggle NERD_tree. I load it always
 </pre>
 
-h1, ScreenShot
+h1. ScreenShot
 
 !http://i.imgur.com/THXNJ.png!
